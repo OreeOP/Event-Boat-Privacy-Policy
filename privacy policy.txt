@@ -1,0 +1,57 @@
+mrkirby153's bots Privacy Policy
+================================
+
+Effective: August 20th, 2020
+
+This document describes the privacy policy that you agree and accept by either a) Adding any of the bots listed below, b) Being a member of any server using any of the bots listed below and c) Accessing any of the following websites listed below.
+
+#####################
+# Bots and Services #
+#####################
+
+This privacy policy applies to the following discord bots:
+
+    * Event Boat#9495 (878820628315140106)
+
+#############################
+# Explicitly Collected Data #
+#############################
+
+Explicitly collected data is defined as information that may be stored when intentionally provided by the user, such as invoking a command, modifying configuration, etc. By providing this data, you forego any rights to the data as well as consent for the data to be stored for as long as deemed neccecary for optimal function of the bot or service.
+
+    * Server configurations
+    * Message archives
+    * Event organization details such as giveaways or contents
+
+Message archives collected by Event Boat are automatically expunged 30 days after the last view of the archive.
+
+
+################################
+# Automatically Collected Data #
+################################
+
+Automatically collected data is defined as information that may be collected and stored automatically by a bot or service. 
+
+    * Server messages (mod logs)
+    * User's server membership (persistence)
+    * A list of user's roles (roles)
+    * Profile information such as username, id, and discriminator
+
+All of the above domains may collect the following information in log files that are periodically expunged
+
+    * IP addresses
+    * URLs accessed
+    * User agent strings
+
+
+#############################
+# Data Security and Storage #
+#############################
+
+All data is stored on secure servers. Most data is stored in encrypted, password protected databases such as MySQL. Even though reasonable steps have been taken to secure your data, security cannot be guaranteed.
+
+#######################
+# Contact Information #
+#######################
+
+For questions, comments, or concerns regarding this policy, feel free to join my support server: https://discord.gg/Na9TZrNb7Z and reach out to Oree#9156
